@@ -4,7 +4,7 @@
 ![Screenshot](https://github.com/yefta11/AdvancedWidget1/blob/master/advwdg1.png)
 
 Nama : Yefta Satria Utama <br>
-kelas : XIRPL5 <br>
-No urut : 04 <br>
+kelas : XI RPL 2 <br>
+No urut : 32 <br>
 Nis : 4852/1517.070 <br> 
 Sekolah: SMK TELKOM MALANG 
